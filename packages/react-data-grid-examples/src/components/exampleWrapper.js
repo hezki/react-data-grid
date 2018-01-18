@@ -1,6 +1,6 @@
 const React = require('react');
 const classNames = require('classnames');
-require('../assets/css/exampleWrapper.css');
+//require('../assets/css/exampleWrapper.css');
 
 const emptyAction = () => { };
 const disableLink = (e) => e.stopPropagation();
